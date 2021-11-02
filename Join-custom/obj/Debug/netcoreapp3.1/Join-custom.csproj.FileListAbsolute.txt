@@ -1,0 +1,14 @@
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\obj\Debug\netcoreapp3.1\Join-custom.csproj.AssemblyReference.cache
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\obj\Debug\netcoreapp3.1\Join-custom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\obj\Debug\netcoreapp3.1\Join-custom.AssemblyInfoInputs.cache
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\obj\Debug\netcoreapp3.1\Join-custom.AssemblyInfo.cs
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\obj\Debug\netcoreapp3.1\Join-custom.csproj.CoreCompileInputs.cache
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\bin\Debug\netcoreapp3.1\Join-custom.exe
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\bin\Debug\netcoreapp3.1\Join-custom.deps.json
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\bin\Debug\netcoreapp3.1\Join-custom.runtimeconfig.json
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\bin\Debug\netcoreapp3.1\Join-custom.runtimeconfig.dev.json
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\bin\Debug\netcoreapp3.1\Join-custom.dll
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\bin\Debug\netcoreapp3.1\Join-custom.pdb
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\obj\Debug\netcoreapp3.1\Join-custom.dll
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\obj\Debug\netcoreapp3.1\Join-custom.pdb
+C:\Users\Orxan477\source\repos\Join-custom\Join-custom\obj\Debug\netcoreapp3.1\Join-custom.genruntimeconfig.cache
